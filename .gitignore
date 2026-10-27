@@ -1,0 +1,5 @@
+# 本地数据与缓存，不上传
+workbench.db
+__pycache__/
+*.pyc
+.venv/

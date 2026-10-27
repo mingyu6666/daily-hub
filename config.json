@@ -1,0 +1,11 @@
+{
+  "pushplus_token": "",
+  "push_time": "07:00",
+  "news_count": 10,
+  "tasks": [
+    { "id": "words",   "name": "背单词",     "desc": "不背单词 50 个",          "icon": "📖" },
+    { "id": "game",    "name": "游戏任务",   "desc": "完成每日游戏任务",        "icon": "🎮" },
+    { "id": "learn",   "name": "学习新技能", "desc": "学一个 Python 技巧 / 新软件 / GitHub 项目", "icon": "💡" },
+    { "id": "fitness", "name": "健身",       "desc": "消耗 250-300 千卡",       "icon": "🔥" }
+  ]
+}

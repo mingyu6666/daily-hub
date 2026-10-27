@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>风格 A · 暗夜流光</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #09090e;
+    color: #e4e4ea;
+    min-height: 100vh;
+  }
+  /* 顶部氛围光 */
+  body::before {
+    content:""; position:fixed; inset:0; pointer-events:none; z-index:0;
+    background:
+      radial-gradient(600px 300px at 15% -5%, rgba(124,108,255,.18), transparent 60%),
+      radial-gradient(500px 280px at 85% -5%, rgba(94,234,212,.10), transparent 60%);
+  }
+  .wrap { max-width:1080px; margin:0 auto; padding:28px 22px 60px; position:relative; z-index:1; }
+
+  header { display:flex; justify-content:space-between; align-items:center; margin-bottom:30px; }
+  .logo { font-size:20px; font-weight:700; letter-spacing:.5px;
+    background:linear-gradient(90deg,#a89bff,#5eead4); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .date { color:#6b6b7b; font-size:13px; margin-top:5px; }
+  .ring { width:64px; height:64px; border-radius:50%; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; font-weight:700; font-size:15px;
+    background:conic-gradient(#7c6cff 0 50%, #1e1e28 50% 100%);
+    box-shadow:0 0 24px rgba(124,108,255,.35); }
+  .ring::before { content:""; position:absolute; width:48px; height:48px; border-radius:50%; background:#0d0d14; }
+  .ring span, .ring small { position:relative; }
+  .ring small { font-size:9px; color:#6b6b7b; font-weight:400; }
+
+  h2 { font-size:13px; text-transform:uppercase; letter-spacing:2px; color:#8a8a9b;
+    margin:28px 0 14px; display:flex; align-items:center; gap:10px; font-weight:600; }
+  h2::after { content:""; flex:1; height:1px; background:linear-gradient(90deg,#262632,transparent); }
+
+  .tasks { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; }
+  .task {
+    background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.07);
+    border-radius:14px; padding:18px; cursor:pointer; transition:.25s;
+  }
+  .task:hover { border-color:rgba(124,108,255,.5); transform:translateY(-2px);
+    box-shadow:0 8px 30px rgba(124,108,255,.15); }
+  .task.done { border-color:rgba(94,234,212,.35); background:rgba(94,234,212,.05); }
+  .task .ico { font-size:22px; }
+  .task .name { font-weight:600; margin:10px 0 3px; font-size:15px; }
+  .task .desc { font-size:12px; color:#6b6b7b; line-height:1.5; }
+  .task .foot { display:flex; justify-content:space-between; margin-top:14px; font-size:12px; }
+  .streak { color:#fbbf24; }
+  .done-tag { color:#5eead4; font-weight:600; }
+  .todo-tag { color:#55555f; }
+
+  .news { background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.06);
+    border-radius:14px; overflow:hidden; }
+  .news-item { display:flex; gap:14px; padding:13px 18px; border-bottom:1px solid rgba(255,255,255,.04); font-size:14px; align-items:baseline; }
+  .news-item:last-child { border:none; }
+  .news-item:hover { background:rgba(124,108,255,.05); }
+  .idx { color:#7c6cff; font-weight:700; font-family:monospace; font-size:13px; }
+  .src { margin-left:auto; font-size:11px; color:#55555f; border:1px solid #262632;
+    padding:2px 8px; border-radius:99px; white-space:nowrap; }
+
+  .cols { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+  .panel { background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.07);
+    border-radius:14px; padding:18px; }
+  .panel h3 { font-size:14px; margin-bottom:10px; }
+  .fake-text { font-size:13px; color:#8a8a9b; line-height:1.8; }
+
+  .heat { display:flex; gap:4px; flex-wrap:wrap; }
+  .cell { width:22px; height:22px; border-radius:5px; background:#17171f; }
+  .cell.l1 { background:rgba(124,108,255,.3); }
+  .cell.l2 { background:rgba(124,108,255,.6); }
+  .cell.l3 { background:#7c6cff; box-shadow:0 0 8px rgba(124,108,255,.5); }
+
+  .tag-line { text-align:center; color:#3d3d4a; font-size:12px; margin-top:40px; }
+  @media (max-width:800px){ .tasks{grid-template-columns:repeat(2,1fr);} .cols{grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="logo">◈ WORKBENCH</div>
+      <div class="date">2026 年 10 月 27 日 · 星期二 · 晚上好</div>
+    </div>
+    <div class="ring"><span>50%</span><small>今日</small></div>
+  </header>
+
+  <h2>今日任务</h2>
+  <div class="tasks">
+    <div class="task done"><div class="ico">📖</div><div class="name">背单词</div><div class="desc">不背单词 50 个</div>
+      <div class="foot"><span class="streak">🔥 12 天</span><span class="done-tag">✓ 完成</span></div></div>
+    <div class="task done"><div class="ico">🎮</div><div class="name">游戏任务</div><div class="desc">完成每日游戏任务</div>
+      <div class="foot"><span class="streak">🔥 5 天</span><span class="done-tag">✓ 完成</span></div></div>
+    <div class="task"><div class="ico">💡</div><div class="name">学习新技能</div><div class="desc">Python / 新软件 / GitHub 项目</div>
+      <div class="foot"><span class="streak">🔥 8 天</span><span class="todo-tag">待打卡</span></div></div>
+    <div class="task"><div class="ico">🔥</div><div class="name">健身</div><div class="desc">消耗 250-300 千卡</div>
+      <div class="foot"><span class="streak">🔥 3 天</span><span class="todo-tag">待打卡</span></div></div>
+  </div>
+
+  <h2>国际大事</h2>
+  <div class="news">
+    <div class="news-item"><span class="idx">01</span>Meta 拟发股筹集 950 亿美元 AI 投资资金<span class="src">FT中文网</span></div>
+    <div class="news-item"><span class="idx">02</span>乌克兰证实星链限制已被解除<span class="src">FT中文网</span></div>
+    <div class="news-item"><span class="idx">03</span>CERN 总干事呼吁欧洲支持建造未来环形对撞机<span class="src">FT中文网</span></div>
+    <div class="news-item"><span class="idx">04</span>特朗普重返白宫后，如何从五方面改变美国移民政策<span class="src">BBC中文</span></div>
+    <div class="news-item"><span class="idx">05</span>福田康夫逝世享年 90 岁<span class="src">BBC中文</span></div>
+  </div>
+
+  <h2>记录</h2>
+  <div class="cols">
+    <div class="panel"><h3>📔 今日日记</h3><p class="fake-text">今天搭建了个人工作台，终于有了一个每天开始的地方。新闻推送功能很实用……</p></div>
+    <div class="panel"><h3>💼 工作总结</h3><p class="fake-text">完成了工作台后端 API，联调了 PushPlus 推送。明天计划：优化新闻源……</p></div>
+  </div>
+
+  <h2>最近 30 天</h2>
+  <div class="panel"><div class="heat">
+    <div class="cell l3"></div><div class="cell l2"></div><div class="cell l3"></div><div class="cell l1"></div><div class="cell l3"></div><div class="cell l3"></div><div class="cell"></div>
+    <div class="cell l2"></div><div class="cell l3"></div><div class="cell l3"></div><div class="cell l1"></div><div class="cell l2"></div><div class="cell l3"></div><div class="cell l3"></div>
+    <div class="cell l1"></div><div class="cell l3"></div><div class="cell l2"></div><div class="cell l3"></div><div class="cell l3"></div><div class="cell l2"></div><div class="cell l3"></div>
+    <div class="cell l3"></div><div class="cell l2"></div><div class="cell l3"></div><div class="cell l1"></div><div class="cell l3"></div><div class="cell l3"></div><div class="cell l2"></div>
+    <div class="cell l3"></div><div class="cell l3"></div>
+  </div></div>
+
+  <p class="tag-line">风格 A · 暗夜流光 — 深色底 + 紫青辉光，程序员既视感</p>
+</div>
+</body>
+</html>
