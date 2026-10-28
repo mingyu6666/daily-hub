@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的工作台</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <header class="header">
+      <div>
+        <h1>我的<span>工作台</span></h1>
+        <p class="date-line"><span id="todayDate"></span> ★ <span id="greeting"></span></p>
+      </div>
+      <div class="header-right">
+        <div class="score-box">
+          <b id="doneCount">0/4</b>
+          <small>今日完成</small>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <h2 class="sec-title">■ 今日任务 <span class="badge" id="weekRate">本周 --%</span></h2>
+      <div class="task-grid" id="taskGrid"></div>
+    </section>
+
+    <section>
+      <h2 class="sec-title">■ 国际大事 TOP10</h2>
+      <p class="hint" id="newsDate" style="margin-bottom:12px">每日 07:00 由云端自动更新并推送微信</p>
+      <div class="news-list" id="newsList"><p class="empty-hint">加载中…</p></div>
+    </section>
+
+    <section>
+      <h2 class="sec-title">■ 今日记录</h2>
+      <div class="two-col">
+        <div class="note-panel note-diary">
+          <div class="note-head">
+            <h3>📔 日记 · TODAY</h3>
+            <div class="mood-picker" id="moodPicker">
+              <span data-mood="😄">😄</span><span data-mood="🙂">🙂</span>
+              <span data-mood="😐">😐</span><span data-mood="😔">😔</span>
+              <span data-mood="😤">😤</span>
+            </div>
+          </div>
+          <textarea id="diaryInput" placeholder="记录今天的心情、见闻、想法…"></textarea>
+          <div class="note-foot">
+            <span class="hint" id="diaryStatus"></span>
+            <button class="btn-brutal btn-yellow" id="btnSaveDiary">保存日记</button>
+          </div>
+          <div class="history" id="diaryHistory"></div>
+        </div>
+        <div class="note-panel note-work">
+          <div class="note-head"><h3>💼 工作总结 · WORK</h3></div>
+          <textarea id="summaryInput" placeholder="今天完成了什么？遇到什么挑战？明天计划…"></textarea>
+          <div class="note-foot">
+            <span class="hint" id="summaryStatus"></span>
+            <button class="btn-brutal btn-yellow" id="btnSaveSummary">保存总结</button>
+          </div>
+          <div class="history" id="summaryHistory"></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="sec-title">■ 最近 30 天战绩</h2>
+      <div class="stats-wrap"><table class="stats-table" id="statsTable"></table></div>
+    </section>
+
+    <footer class="footer">★ 云端版 · 打卡与记录保存在本浏览器 · 新闻每日 07:00 自动更新 ★</footer>
+  </div>
+
+  <!-- 打卡备注弹窗 -->
+  <div class="modal-mask" id="noteModal" style="display:none">
+    <div class="modal">
+      <h3 id="noteModalTitle">打卡备注</h3>
+      <input type="text" id="noteInput" placeholder="备注（如：学了 Flask、跑了 5 公里）">
+      <div class="cal-row" id="calRow" style="display:none">
+        <label>消耗热量（千卡）：</label>
+        <input type="number" id="calInput" placeholder="250-300" min="0">
+      </div>
+      <div class="modal-actions">
+        <button class="btn-brutal btn-white" id="noteCancel">取消</button>
+        <button class="btn-brutal btn-green" id="noteConfirm">确认打卡!</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>
