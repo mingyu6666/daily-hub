@@ -1,6 +1,12 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
+    {
+      "title": "香港PE集团收购恒大物业控股权",
+      "link": "https://www.ftchinese.com/story/001111241",
+      "source": "FT中文网",
+      "summary": "太盟投资集团(PAG)拟以5.13亿美元收购恒大物业51%股权，出价约比最后收盘价低30%，这是恒大清盘人追收资产道路上的收获之一。"
+    },
     {
       "title": "“联系成员国”争端给加欧峰会蒙上阴影",
       "link": "https://www.ftchinese.com/story/001111236",
@@ -26,40 +32,34 @@
       "summary": "去年的宏福苑火灾是香港数十年来最严重的住宅火灾，造成168人死亡。"
     },
     {
-      "title": "中国需求减弱影响GSK疫苗销售额",
-      "link": "https://www.ftchinese.com/story/001111224",
-      "source": "FT中文网",
-      "summary": "受中国市场对带状疱疹疫苗需求减弱拖累，葛兰素史克第三季度疫苗销售额同比下降4%，这家富时100指数成分股药企的股价随之下跌。"
+      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+      "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "「這次全會進一步表明，習近平的反腐運動沒有終點。」專家說，「持續施加紀律壓力不應只是階段性運動，而必須成為中共運作方式中永久存在的一部分。」"
     },
     {
-      "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
-      "link": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "台灣新北市長選戰：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下藍綠關鍵一城？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "專家稱，更好的激勵與監督可能減少浪費、提高政策可預期性，但更嚴厲的紀律約束也可能加深幹部不敢作為的局面，拖延支出和投資。"
+      "summary": "作為全台人口最多的直轄市，新北市被視為「最關鍵戰場」，將判定藍綠整體勝負，並可能牽動2028年總統大選。"
+    },
+    {
+      "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
+      "link": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "兩家分析公司已將事件歸咎於「TraderTraitor」。人工智能調查公司TRM Labs在一份報告中稱，幣安攻擊事件的多個要素與早前和朝鮮有關的事件相似，包括2025年Bybit交易所創紀錄的15億美元黑客攻擊。另一家加密分析公司Chai…"
+    },
+    {
+      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
+      "link": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "過去一個月，歐洲各地爆發了由青年主導的示威遊行。這些遊行活動有何共同點？"
     },
     {
       "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
       "link": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "summary": "姆巴佩有關一名「中國領導人」的言論引發眾怒，但網絡審查令許多人仍不清楚事件究竟是怎麼回事。"
-    },
-    {
-      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
-      "link": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。"
-    },
-    {
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-      "link": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "這位參議員離開巴西後，被拍到在美國走下飛機。他在巴西因涉嫌洗錢而接受調查。"
-    },
-    {
-      "title": "如何不刻意鍛煉，也能增加活動量？",
-      "link": "https://www.bbc.com/zhongwen/articles/c3lylxpp7vjzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "日常零星活動正顯現出保護健康的強大作用，其效果令人意外。它有助於我們消耗更多熱量，降低患心血管疾病的風險，甚至降低死亡風險。"
     }
   ]
 }
