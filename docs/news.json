@@ -1,6 +1,18 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
+    {
+      "title": "内塔尼亚胡敦促特朗普重启对伊战争",
+      "link": "https://www.ftchinese.com/story/001111266",
+      "source": "FT中文网",
+      "summary": "以色列总理据悉在上周六通话期间敦促美国总统在中期选举结束后重启对伊军事行动，但美方仍希望给予外交努力最后机会。"
+    },
+    {
+      "title": "中国化工品出口飙升，或引发新的贸易争端",
+      "link": "https://www.ftchinese.com/story/001111263",
+      "source": "FT中文网",
+      "summary": "中国在短短五年内将某些化工品的产能提高了近一倍，如今部分产品的产量已占全球总产量的一半左右，给外国竞争对手带来压力。"
+    },
     {
       "title": "香港PE集团收购恒大物业控股权",
       "link": "https://www.ftchinese.com/story/001111241",
@@ -20,46 +32,34 @@
       "summary": "利库德集团祭出这一说法之前，阿拉伯裔以色列公民在本周选举中踊跃投票支持该国阿拉伯政党，导致内塔尼亚胡阵营未能决定性胜出。"
     },
     {
-      "title": "3.4%：美国经济第三季度年化增速超预期",
-      "link": "https://www.ftchinese.com/story/001111234",
-      "source": "FT中文网",
-      "summary": "这一增速较第二季度的2.2%有所加快，并高于华尔街此前预测的3.2%。AI支出热潮继续推动经济增长，消费者也继续大笔消费。"
-    },
-    {
-      "title": "香港特首就宏福苑大火致歉",
-      "link": "https://www.ftchinese.com/story/001111231",
-      "source": "FT中文网",
-      "summary": "去年的宏福苑火灾是香港数十年来最严重的住宅火灾，造成168人死亡。"
-    },
-    {
-      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
-      "link": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
+      "link": "https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "這些數據中心正滾存著數百億英鎊的債務。"
+      "summary": "美國執法部門和網絡安全分析師將這宗破紀錄的盜竊案歸咎於平壤當局。"
     },
     {
-      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
-      "link": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「英國政府對華政策摸著石頭過河」——國會報告",
+      "link": "https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "德國多座城市，包括柏林、漢堡和法蘭克福，都爆發了抗議活動。同一天，法國也有數十萬人走上街頭示威。"
+      "summary": "下議院商業、創新、科學與貿易委員會的一份報告指出，英國政府對華事務的決策過程持續地「前後矛盾」。"
     },
     {
-      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-      "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "台灣選舉：四成陸配參選遭剔除，「法理死結」如何困住參政之路？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "由美國第一夫人梅拉尼婭·特朗普（Melania Trump）斡旋達成的人道停火在赫爾松（Kherson）地區生效，令當地四年來首次出現數天和平時段，並讓奧列什基（Oleshky）居民得以撤離。"
+      "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。"
     },
     {
-      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
-      "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "「這次全會進一步表明，習近平的反腐運動沒有終點。」專家說，「持續施加紀律壓力不應只是階段性運動，而必須成為中共運作方式中永久存在的一部分。」"
+      "summary": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場由來已久的辯論，並引發了關於科學與娛樂之間界限的新問題。"
     },
     {
-      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
-      "link": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+      "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
+      "link": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "根據11月生效的規定，愛彼迎（Airbnb）房東不得再要求房客清洗餐具或倒垃圾。"
+      "summary": "一家網上零售商表示，他們有售有助帶來好運咒語，而最近購買的人數大幅上升。"
     }
   ]
 }
