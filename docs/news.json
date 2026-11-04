@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
+    {
+      "title": "京东22亿欧元收购德国Ceconomy交易获批",
+      "link": "https://www.ftchinese.com/story/001111277",
+      "source": "FT中文网",
+      "summary": "这是首笔受到欧盟《外国补贴条例》评估的中资收购欧洲公司交易。欧盟委员会称京东已承诺充分且有效地补救由补贴造成的市场扭曲。"
+    },
+    {
+      "title": "华尔街密切关注美国州长选举",
+      "link": "https://www.ftchinese.com/story/001111276",
+      "source": "FT中文网",
+      "summary": "华尔街普遍认为36场州长选举可能会对全美各地的数据中心开发产生重大影响。"
+    },
+    {
+      "title": "美俄中商讨是否举行三国领导人会晤",
+      "link": "https://www.ftchinese.com/story/001111274",
+      "source": "FT中文网",
+      "summary": "美俄中三国领导人将于两周后齐聚深圳参加亚太经合组织峰会，三方官员正在商讨届时举行三方会晤的可能性。"
+    },
     {
       "title": "内塔尼亚胡敦促特朗普重启对伊战争",
       "link": "https://www.ftchinese.com/story/001111266",
@@ -14,52 +32,34 @@
       "summary": "中国在短短五年内将某些化工品的产能提高了近一倍，如今部分产品的产量已占全球总产量的一半左右，给外国竞争对手带来压力。"
     },
     {
-      "title": "香港PE集团收购恒大物业控股权",
-      "link": "https://www.ftchinese.com/story/001111241",
-      "source": "FT中文网",
-      "summary": "太盟投资集团(PAG)拟以5.13亿美元收购恒大物业51%股权，出价约比最后收盘价低30%，这是恒大清盘人追收资产道路上的收获之一。"
-    },
-    {
-      "title": "“联系成员国”争端给加欧峰会蒙上阴影",
-      "link": "https://www.ftchinese.com/story/001111236",
-      "source": "FT中文网",
-      "summary": "欧盟-加拿大峰会在蒙特利尔开幕之际，欧盟委员会主席冯德莱恩给予加拿大“联系成员国”地位的雄心，使其与自己的祖国德国意见相左。"
-    },
-    {
-      "title": "内塔尼亚胡所属政党声称选举被“窃取”",
-      "link": "https://www.ftchinese.com/story/001111235",
-      "source": "FT中文网",
-      "summary": "利库德集团祭出这一说法之前，阿拉伯裔以色列公民在本周选举中踊跃投票支持该国阿拉伯政党，导致内塔尼亚胡阵营未能决定性胜出。"
-    },
-    {
-      "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
-      "link": "https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "APEC峰會前，美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
+      "link": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "美國執法部門和網絡安全分析師將這宗破紀錄的盜竊案歸咎於平壤當局。"
+      "summary": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？"
     },
     {
-      "title": "「英國政府對華政策摸著石頭過河」——國會報告",
-      "link": "https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "有望成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "下議院商業、創新、科學與貿易委員會的一份報告指出，英國政府對華事務的決策過程持續地「前後矛盾」。"
+      "summary": "在密歇根州，民意調查顯示，民主黨候選人阿卜杜勒·賽義德（Abdul El-Sayed）有望成為美國首位穆斯林參議員。"
     },
     {
-      "title": "台灣選舉：四成陸配參選遭剔除，「法理死結」如何困住參政之路？",
-      "link": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "《蘋果日報》前社長張劍虹提早獲釋，向官媒稱「好懊悔」",
+      "link": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。"
+      "summary": "除了張劍虹，據報至少還有3名因《香港國安法》入獄的人士，亦已提早獲釋。外界關注，壹傳媒創辦人黎智英能否同獲假釋機會。"
     },
     {
-      "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "英國移民改革改什麼？BNO港人會受影響嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c63r50z3npr7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場由來已久的辯論，並引發了關於科學與娛樂之間界限的新問題。"
+      "summary": "內政大臣公布改革英國永久居留要求的計劃。"
     },
     {
-      "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
-      "link": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "印尼有毒煙霾正令鄰國陷入政治難題",
+      "link": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "一家網上零售商表示，他們有售有助帶來好運咒語，而最近購買的人數大幅上升。"
+      "summary": "新加坡和馬來西亞政府正夾在焦慮不安的民眾與脾氣暴躁的鄰國之間。"
     }
   ]
 }
