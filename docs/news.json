@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
+    {
+      "title": "德国总理就落实援乌资金向欧盟发出通牒",
+      "link": "https://www.ftchinese.com/story/001111323",
+      "source": "FT中文网",
+      "summary": "默茨在欧盟领导人本周开会前警告：除非所有成员国承诺在2027年及以后继续向乌克兰提供财政支持，否则他将阻止欧盟通过下一份七年预算。"
+    },
+    {
+      "title": "加拿大阿尔伯塔省省长在公投后面临党内反弹",
+      "link": "https://www.ftchinese.com/story/001111322",
+      "source": "FT中文网",
+      "summary": "这个盛产石油的加拿大西部省份在公投中支持留在加拿大后，省长丹妮尔•史密斯被党内的分离主义势力指责为“背叛”。"
+    },
+    {
+      "title": "Anthropic斥资34亿美元接手发电设备",
+      "link": "https://www.ftchinese.com/story/001111311",
+      "source": "FT中文网",
+      "summary": "随着数据中心的电力需求激增，这家前沿AI公司与得州OnePWR Solutions达成协议，买下后者在几年前订购的燃气发电设备。"
+    },
     {
       "title": "美国民主党控制国会对乌克兰意味着什么？",
       "link": "https://www.ftchinese.com/story/001111309",
@@ -14,52 +32,34 @@
       "summary": "迄今所有威胁均已被证实为欺骗之举。专家认为，此波威胁可能是一场蓄意扰乱航空旅行的协调行动。"
     },
     {
-      "title": "中国加大股市救市力度",
-      "link": "https://www.ftchinese.com/story/001111281",
-      "source": "FT中文网",
-      "summary": "在“国家队”主导的最新买入行动中，异常大比例的资金投向追踪科创50指数和创业板指数的ETF。"
-    },
-    {
-      "title": "索尔维达成稀土协议 减少对中国依赖",
-      "link": "https://www.ftchinese.com/story/001111282",
-      "source": "FT中文网",
-      "summary": "这家比利时化工集团与在巴西拥有稀土矿的澳大利亚Viridis签署长期协议，2028年起获得从该矿开采的稀土原料。"
-    },
-    {
-      "title": "油价周二延续跌势",
-      "link": "https://www.ftchinese.com/story/001111278",
-      "source": "FT中文网",
-      "summary": "布伦特原油在周一下跌近8%的基础上进一步下跌1.8%，至每桶102.84美元。此前有报道称美伊之间的外交努力取得进展。"
-    },
-    {
-      "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
-      "link": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
+      "link": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。"
+      "summary": "黃仁勳因與一名被指控為中國間諜的女子有婚外情，正受到其所在公司的調查。"
     },
     {
-      "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "隨著人們對這些收藏玩具的興趣減弱，其母公司泡泡瑪特（Pop Mart）的收入也隨之下降。"
+      "summary": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。"
+    },
+    {
+      "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
+      "link": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "輝達（英偉達）總裁黃仁勳承認婚外情並向公眾致歉，為何引發國安及輿論風暴？新加坡的角色又是如何？會影響台灣的產業鏈嗎？中國為何嚴厲否認相關指控。"
+    },
+    {
+      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
+      "link": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。"
     },
     {
       "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
       "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "summary": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。"
-    },
-    {
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。"
-    },
-    {
-      "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
-      "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的…"
     }
   ]
 }
