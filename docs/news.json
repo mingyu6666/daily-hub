@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "items": [
+    {
+      "title": "高中学历遭质疑 印尼副总统有意辞职",
+      "link": "https://www.ftchinese.com/story/001111332",
+      "source": "FT中文网",
+      "summary": "吉布兰在2024年参选时提交了一份高中“同等学历证明”，但该证明已被最高法院裁定无效。"
+    },
+    {
+      "title": "意大利银行业抨击梅洛尼政府最新增税计划",
+      "link": "https://www.ftchinese.com/story/001111330",
+      "source": "FT中文网",
+      "summary": "针对梅洛尼政府在未来三年向银行额外征税70亿欧元的计划，银行业协会负责人抱怨称这有违“经济理性”。"
+    },
+    {
+      "title": "美国10月环比通胀率放缓幅度不及预期",
+      "link": "https://www.ftchinese.com/story/001111329",
+      "source": "FT中文网",
+      "summary": "该月环比价格涨幅为0.4%，低于9月的0.6%，但高于经济学家们此前预测的0.3%。"
+    },
+    {
+      "title": "Anthropic寻求以1.4万亿美元估值上市",
+      "link": "https://www.ftchinese.com/story/001111328",
+      "source": "FT中文网",
+      "summary": "这一目标估值显著高于这家AI公司5月进行上一轮私募融资时达到的9650亿美元。"
+    },
     {
       "title": "德国总理就落实援乌资金向欧盟发出通牒",
       "link": "https://www.ftchinese.com/story/001111323",
@@ -8,58 +32,34 @@
       "summary": "默茨在欧盟领导人本周开会前警告：除非所有成员国承诺在2027年及以后继续向乌克兰提供财政支持，否则他将阻止欧盟通过下一份七年预算。"
     },
     {
-      "title": "加拿大阿尔伯塔省省长在公投后面临党内反弹",
-      "link": "https://www.ftchinese.com/story/001111322",
-      "source": "FT中文网",
-      "summary": "这个盛产石油的加拿大西部省份在公投中支持留在加拿大后，省长丹妮尔•史密斯被党内的分离主义势力指责为“背叛”。"
-    },
-    {
-      "title": "Anthropic斥资34亿美元接手发电设备",
-      "link": "https://www.ftchinese.com/story/001111311",
-      "source": "FT中文网",
-      "summary": "随着数据中心的电力需求激增，这家前沿AI公司与得州OnePWR Solutions达成协议，买下后者在几年前订购的燃气发电设备。"
-    },
-    {
-      "title": "美国民主党控制国会对乌克兰意味着什么？",
-      "link": "https://www.ftchinese.com/story/001111309",
-      "source": "FT中文网",
-      "summary": "鉴于美国的外交政策仍掌握在特朗普手里，一些民主党议员寻求利用其拨款权和监督权来加强对乌克兰的支持，同时加强对俄罗斯的制裁。"
-    },
-    {
-      "title": "20个欧洲航班再遭“诈弹”威胁",
-      "link": "https://www.ftchinese.com/story/001111295",
-      "source": "FT中文网",
-      "summary": "迄今所有威胁均已被证实为欺骗之举。专家认为，此波威胁可能是一场蓄意扰乱航空旅行的协调行动。"
-    },
-    {
-      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
-      "link": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "link": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "黃仁勳因與一名被指控為中國間諜的女子有婚外情，正受到其所在公司的調查。"
+      "summary": "BBC中文採訪多名政治分析人士，拆解這場善後操作背後所反映的維穩管治邏輯，以及又與即將舉行的選委會及特首選舉有何深層連結。"
     },
     {
-      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
+      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
+      "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。"
+      "summary": "輝達黃仁勳承認對妻子不忠，緋聞鎖定被指中共間諜的黃樂。這位女子曾任新加坡科技公司高管，大量採購輝達晶片，美情報稱她受國安部招募。但特朗普（川普）為黃仁勳辯護，中方则否认指控。"
     },
     {
-      "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
-      "link": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
+      "link": "https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "輝達（英偉達）總裁黃仁勳承認婚外情並向公眾致歉，為何引發國安及輿論風暴？新加坡的角色又是如何？會影響台灣的產業鏈嗎？中國為何嚴厲否認相關指控。"
+      "summary": "分析指排放或已提前達峰，但新煤電機組仍大量上馬，拐點成色有待檢驗。"
     },
     {
-      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
-      "link": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
+      "title": "一名公務員如何長期瞞天過海，身兼五職？",
+      "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。"
+      "summary": "卡西姆·喬杜里（Kashim Chowdhury）在三年內將納稅人的錢挪用28.4萬英鎊後，被判犯有欺詐罪。"
     },
     {
-      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-      "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+      "link": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。"
+      "summary": "你在睡前吃甜食是有生物學原因的，但你可以改變這個習慣。"
     }
   ]
 }
