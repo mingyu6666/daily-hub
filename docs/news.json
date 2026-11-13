@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
+    {
+      "title": "和谈之际乌克兰再遭星盾限速",
+      "link": "https://www.ftchinese.com/story/001111357",
+      "source": "FT中文网",
+      "summary": "泽连斯基称已连续数日遭到星盾“系统性限速”。乌克兰高官相信此举是为了在俄美乌三方谈判期间向基辅方面施压。"
+    },
+    {
+      "title": "以军再度空袭加沙医院",
+      "link": "https://www.ftchinese.com/story/001111356",
+      "source": "FT中文网",
+      "summary": "当地卫生部门称6名遇难者包括一名医生、几名患者及陪同人员。以军称袭击目标是藏匿于纳赛尔医院的哈马斯汗尤尼斯旅指挥官及其他武装人员。"
+    },
+    {
+      "title": "中国将严厉惩处离岸信托收益偷逃税者",
+      "link": "https://www.ftchinese.com/story/001111351",
+      "source": "FT中文网",
+      "summary": "中国政府要求中国富裕人士在10月22日的最后期限前完成对离岸信托收益的申报缴税，上月个人所得税收入同比增长90%。"
+    },
     {
       "title": "投资者对AI专用发电技术企业信心下降",
       "link": "https://www.ftchinese.com/story/001111347",
@@ -14,28 +32,22 @@
       "summary": "欧佩克最大产油国10月原油日产量达到1060万桶，似乎表明它找到了维持石油工业运转的方法。"
     },
     {
-      "title": "美国科技股有望延续反弹趋势",
-      "link": "https://www.ftchinese.com/story/001111345",
-      "source": "FT中文网",
-      "summary": "新云服务商CoreWeave好于预期的业绩表现，以及Anthropic上市估值有望上调的消息，都提振了市场情绪。"
-    },
-    {
-      "title": "英伟达聘请前联邦检察官调查黄仁勋事件",
-      "link": "https://www.ftchinese.com/story/001111342",
-      "source": "FT中文网",
-      "summary": "纽约南区前代理联邦检察官金俊铉将负责对黄仁勋与一名据称是中国间谍的女子之间婚外情的内部调查。"
-    },
-    {
-      "title": "高中学历遭质疑 印尼副总统有意辞职",
-      "link": "https://www.ftchinese.com/story/001111332",
-      "source": "FT中文网",
-      "summary": "吉布兰在2024年参选时提交了一份高中“同等学历证明”，但该证明已被最高法院裁定无效。"
-    },
-    {
-      "title": "中美能源大戰，如何影響你的帳單？",
-      "link": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
+      "link": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "中美之間的博弈可能會對能源成本產生重大影響，但誰會最終獲勝？"
+      "summary": "Nvidia董事會宣布，黃仁勳已辭去公司執行長一職，原任公司執行副總裁兼財務長的科萊特·克雷斯（Colette Kress）已同意出任臨時執行長。"
+    },
+    {
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "短短幾天內，黃仁勳作為全球科技競賽領軍人物、看似無可撼動的地位便迅速崩塌。"
+    },
+    {
+      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。"
     },
     {
       "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
@@ -44,22 +56,10 @@
       "summary": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。"
     },
     {
-      "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
-      "link": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
+      "link": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "黃仁勳的婚外情對象被懷疑是中國間諜，使「美人計」再度受到關注。在韓國，朝鮮特工元正花曾利用與軍官的關係蒐集軍事情報。"
-    },
-    {
-      "title": "「中國間諜案」獲撤控男子BBC專訪：我是情報部門的替罪羊",
-      "link": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "BBC取得並查閱的數千則訊息顯示，一名中國官員曾設法了解多項敏感政治事務的內情。"
-    },
-    {
-      "title": "一名公務員如何長期瞞天過海，身兼五職？",
-      "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "summary": "卡西姆·喬杜里（Kashim Chowdhury）在三年內將納稅人的錢挪用28.4萬英鎊後，被判犯有欺詐罪。"
+      "summary": "從失禁到長期疼痛，數以百萬計的女性在分娩數十年後仍然飽受後遺症困擾。"
     }
   ]
 }
