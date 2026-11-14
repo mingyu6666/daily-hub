@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
+    {
+      "title": "英伟达风波引发芯片出口限制担忧，中国AI企业股价大跌",
+      "link": "https://www.ftchinese.com/story/001111367",
+      "source": "FT中文网",
+      "summary": "现已辞职的英伟达CEO黄仁勋此前一直支持美国继续对华销售芯片。"
+    },
+    {
+      "title": "美议员就芯片出口管控问题向卢特尼克施压",
+      "link": "https://www.ftchinese.com/story/001111365",
+      "source": "FT中文网",
+      "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。"
+    },
+    {
+      "title": "中国警告美国不要以黄仁勋之事为借口收紧技术出口限制",
+      "link": "https://www.ftchinese.com/story/001111358",
+      "source": "FT中文网",
+      "summary": "中国指责美国编造所谓的“间谍叙事”，为实施科技封锁寻找借口。"
+    },
     {
       "title": "和谈之际乌克兰再遭星盾限速",
       "link": "https://www.ftchinese.com/story/001111357",
@@ -14,52 +32,34 @@
       "summary": "当地卫生部门称6名遇难者包括一名医生、几名患者及陪同人员。以军称袭击目标是藏匿于纳赛尔医院的哈马斯汗尤尼斯旅指挥官及其他武装人员。"
     },
     {
-      "title": "中国将严厉惩处离岸信托收益偷逃税者",
-      "link": "https://www.ftchinese.com/story/001111351",
-      "source": "FT中文网",
-      "summary": "中国政府要求中国富裕人士在10月22日的最后期限前完成对离岸信托收益的申报缴税，上月个人所得税收入同比增长90%。"
-    },
-    {
-      "title": "投资者对AI专用发电技术企业信心下降",
-      "link": "https://www.ftchinese.com/story/001111347",
-      "source": "FT中文网",
-      "summary": "投资者兴趣曾推动小型模块化核反应堆、地热能和燃料电池相关企业股价飙升，但这反过来意味着这些企业必须持续“烧钱”以完成项目。"
-    },
-    {
-      "title": "沙特石油产量回升至接近战前水平",
-      "link": "https://www.ftchinese.com/story/001111346",
-      "source": "FT中文网",
-      "summary": "欧佩克最大产油国10月原油日产量达到1060万桶，似乎表明它找到了维持石油工业运转的方法。"
-    },
-    {
-      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
-      "link": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
+      "link": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "Nvidia董事會宣布，黃仁勳已辭去公司執行長一職，原任公司執行副總裁兼財務長的科萊特·克雷斯（Colette Kress）已同意出任臨時執行長。"
+      "summary": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。"
     },
     {
-      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
-      "link": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
+      "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "短短幾天內，黃仁勳作為全球科技競賽領軍人物、看似無可撼動的地位便迅速崩塌。"
+      "summary": "接連被揭發兩段婚外情後，黃仁勳於週四（11月12日）辭職。事件曝光後的一個禮拜內，全球媒體、社交軟體全部捲入這次事件，民眾對於「中國間諜」展開討論，股民亦為黃仁勳事件買單，輿論依然持續發酵，且沒有停下的趨勢。"
     },
     {
-      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
-      "link": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。"
+      "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。"
     },
     {
-      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
-      "link": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
+      "link": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。"
+      "summary": "監測網站顯示，這次中斷影響74個國家的用戶，已持續超過八小時。"
     },
     {
-      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-      "link": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
+      "link": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "從失禁到長期疼痛，數以百萬計的女性在分娩數十年後仍然飽受後遺症困擾。"
+      "summary": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。"
     }
   ]
 }
