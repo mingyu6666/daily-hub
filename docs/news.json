@@ -1,6 +1,24 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
+    {
+      "title": "极地涡旋提前崩溃令人担忧寒冬",
+      "link": "https://www.ftchinese.com/story/001111375",
+      "source": "FT中文网",
+      "summary": "通常困住北极冷空气的极地涡旋出现有记录以来最早的冬季崩溃，科学家担心欧洲、北美和北亚出现极度寒冷干燥的天气，但目前影响尚不明确。"
+    },
+    {
+      "title": "纽约社会主义者组织支持奥卡西奥-科尔特斯竞选总统",
+      "link": "https://www.ftchinese.com/story/001111373",
+      "source": "FT中文网",
+      "summary": "37岁的奥卡西奥-科尔特斯是新一代左翼代表人物，得到美国民主社会主义者协会纽约市分会的支持。她本人尚未表态会否竞选总统。"
+    },
+    {
+      "title": "俄罗斯要求欧洲挑选一名代表参与俄乌和谈",
+      "link": "https://www.ftchinese.com/story/001111372",
+      "source": "FT中文网",
+      "summary": "按照俄方设想，这一人选还必须获得普京的认可。此前特朗普女婿库什纳在莫斯科与俄总统会面后称，普京愿“尝试”让欧洲参与谈判。"
+    },
     {
       "title": "英伟达风波引发芯片出口限制担忧，中国AI企业股价大跌",
       "link": "https://www.ftchinese.com/story/001111367",
@@ -14,52 +32,34 @@
       "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。"
     },
     {
-      "title": "中国警告美国不要以黄仁勋之事为借口收紧技术出口限制",
-      "link": "https://www.ftchinese.com/story/001111358",
-      "source": "FT中文网",
-      "summary": "中国指责美国编造所谓的“间谍叙事”，为实施科技封锁寻找借口。"
-    },
-    {
-      "title": "和谈之际乌克兰再遭星盾限速",
-      "link": "https://www.ftchinese.com/story/001111357",
-      "source": "FT中文网",
-      "summary": "泽连斯基称已连续数日遭到星盾“系统性限速”。乌克兰高官相信此举是为了在俄美乌三方谈判期间向基辅方面施压。"
-    },
-    {
-      "title": "以军再度空袭加沙医院",
-      "link": "https://www.ftchinese.com/story/001111356",
-      "source": "FT中文网",
-      "summary": "当地卫生部门称6名遇难者包括一名医生、几名患者及陪同人员。以军称袭击目标是藏匿于纳赛尔医院的哈马斯汗尤尼斯旅指挥官及其他武装人员。"
-    },
-    {
-      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
-      "link": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
+      "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。"
+      "summary": "深圳APEC2026到來，特朗普（川普）稱將與中俄領袖在深圳會面，中俄確認正協調三方會晤。BBC中文專訪APEC執行秘書長討論敏感議，稱對領導人出席保持樂觀。"
     },
     {
-      "title": "美國人如何背棄特朗普——2026中期大選結果覆盤",
-      "link": "https://www.bbc.com/zhongwen/resources/idt-eb5702ee-a7ac-4445-8942-456df0e95f0f?at_medium=RSS&at_campaign=rss",
+      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "九張圖表解釋民主黨在美國中期選舉中的壓倒性勝利，以及這對總統意味著甚麼。"
+      "summary": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。"
     },
     {
-      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
-      "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
+      "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "中國官方否認相關指控，批評所謂「中國間諜」的論調純屬污衊，但並未全面封殺討論，相關詞條仍頻頻登上微博熱搜和小紅書熱帖。而在互聯網防火牆的內外，輿論正朝著截然不同的方向發酵。"
+      "summary": "超過2,800萬人在Instagram和X上觀看了他的競選宣傳片，該片以書籍和法國國旗為背景，展現出應有的總統威儀。在隨後24小時內進行的法國輿論研究所（Ifop）民調中，約22%的受訪者表示「可能」會投票給他。"
     },
     {
-      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+      "link": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。"
+      "summary": "在被揭露婚外情後，黃仁勳於週四突然辭去了全球最有價值的公司之一的總裁職務。"
     },
     {
-      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
-      "link": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
+      "link": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。"
+      "summary": "黃仁勳的醜聞使外界開始關注新加坡作為半導體貿易中心的成功——以及其是否成為非法貿易行為場所的疑問。"
     }
   ]
 }
