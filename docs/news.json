@@ -1,6 +1,18 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
+    {
+      "title": "科技投资者：“成功和名望”损害硅谷企业领导水平",
+      "link": "https://www.ftchinese.com/story/001111388",
+      "source": "FT中文网",
+      "summary": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。"
+    },
+    {
+      "title": "欧盟再度推动AI治理全球协议",
+      "link": "https://www.ftchinese.com/story/001111386",
+      "source": "FT中文网",
+      "summary": "欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议。然而，特朗普在中期选举中受挫，一定程度上突显了美国选民对AI和数据中心的担忧。"
+    },
     {
       "title": "极地涡旋提前崩溃令人担忧寒冬",
       "link": "https://www.ftchinese.com/story/001111375",
@@ -20,22 +32,10 @@
       "summary": "按照俄方设想，这一人选还必须获得普京的认可。此前特朗普女婿库什纳在莫斯科与俄总统会面后称，普京愿“尝试”让欧洲参与谈判。"
     },
     {
-      "title": "英伟达风波引发芯片出口限制担忧，中国AI企业股价大跌",
-      "link": "https://www.ftchinese.com/story/001111367",
-      "source": "FT中文网",
-      "summary": "现已辞职的英伟达CEO黄仁勋此前一直支持美国继续对华销售芯片。"
-    },
-    {
-      "title": "美议员就芯片出口管控问题向卢特尼克施压",
-      "link": "https://www.ftchinese.com/story/001111365",
-      "source": "FT中文网",
-      "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。"
-    },
-    {
-      "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
-      "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
+      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "深圳APEC2026到來，特朗普（川普）稱將與中俄領袖在深圳會面，中俄確認正協調三方會晤。BBC中文專訪APEC執行秘書長討論敏感議，稱對領導人出席保持樂觀。"
+      "summary": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。"
     },
     {
       "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
@@ -44,22 +44,22 @@
       "summary": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。"
     },
     {
-      "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
-      "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+      "link": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "超過2,800萬人在Instagram和X上觀看了他的競選宣傳片，該片以書籍和法國國旗為背景，展現出應有的總統威儀。在隨後24小時內進行的法國輿論研究所（Ifop）民調中，約22%的受訪者表示「可能」會投票給他。"
+      "summary": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。"
     },
     {
-      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
-      "link": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "在被揭露婚外情後，黃仁勳於週四突然辭去了全球最有價值的公司之一的總裁職務。"
+      "summary": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。"
     },
     {
-      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-      "link": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+      "link": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
-      "summary": "黃仁勳的醜聞使外界開始關注新加坡作為半導體貿易中心的成功——以及其是否成為非法貿易行為場所的疑問。"
+      "summary": "羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。"
     }
   ]
 }
